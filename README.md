@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yachargui/Parts%20Unlimited/_apis/build/status/ch-yassine18.pipelines-java?branchName=master)](https://dev.azure.com/yachargui/Parts%20Unlimited/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
